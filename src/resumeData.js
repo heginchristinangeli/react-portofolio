@@ -1,9 +1,6 @@
 let resumeData = {
-  "imagebaseurl": "https://joshkuruvilla512.github.io/",
   "name": "Hegin Christin Angeli",
   "role": "Software Engineer Student",
-  "linkedinId": "Your LinkedIn Id",
-  "skypeid": "Your skypeid",
   "roleDescription": "",
   "socialLinks": [
     {
